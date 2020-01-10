@@ -1,0 +1,9 @@
+s:sistemaExemplo
+d:/sistemaExemplo;2020-01-09;7
+d:/sistemaExemplo/dir1;08-01-2020;6
+d:/sistemaExemplo/dir2;08-01-2020;6
+d:/sistemaExemplo/dir3;08-01-2020;6
+d:/sistemaExemplo/dir1/dir4;04-01-2020;6
+f:/sistemaExemplo/file1;08-01-2020;7;Conteudo de um ficheiro que está localizado algures neste sistema.
+f:/sistemaExemplo/file2;08-01-2020;6;Conteudo deste ficheiro é igual a zero
+f:/sistemaExemplo/dir1/file3;08-01-2020;6;Mais conteudo de mais um ficheiro

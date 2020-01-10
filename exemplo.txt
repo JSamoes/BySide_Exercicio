@@ -1,0 +1,4 @@
+s:exemplo
+d:/exemplo;2020-01-09;7
+d:/exemplo/nomeExemplo;2020-01-09;6
+f:/exemplo/nomeExemplo/filename;2020-01-09;6;
